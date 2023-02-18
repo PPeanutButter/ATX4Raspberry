@@ -5,6 +5,9 @@
 - `Gerber.zip`用于打印PCB。
 - `BOM.csv`用于购买零件。
 
+## MainBoard 24pin定义
+![](MainBoard-24pin.png)
+
 ## 原理图
 ![](doc.png)
 
